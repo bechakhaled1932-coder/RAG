@@ -56,7 +56,7 @@ The application follows a RAG-based workflow:
 Clone the repository:
 
 ```bash
-git clone <REPOSITORY_URL>
+git clone (https://github.com/bechakhaled1932-coder/RAG.git)
 cd <REPOSITORY_DIRECTORY>
 ```
 
